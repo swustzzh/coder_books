@@ -2,9 +2,12 @@
 
 Books for coders.
 
-# List
+# Star
 
 - [重构: 改善既有代码设计 - 第二版](https://book-refactoring2.ifmicro.com/docs/)
+- [深入理解现代浏览器](https://github.com/hax/360-w3c/blob/master/articles/20190605_%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E7%8E%B0%E4%BB%A3%E6%B5%8F%E8%A7%88%E5%99%A8.md)
+- [周爱民：告前端同学书](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514258&idx=1&sn=15da5081f310fbb1302e098ea68c0706&chksm=eb0780ebdc7009fd458befdd75280dfd3560aa4d6f8c382b45d2429c3ff7cfab944d3240e8b8#rd)
+- [周爱民 书集](https://weread.qq.com/web/search/books?author=%E5%91%A8%E7%88%B1%E6%B0%91)
 
 01-项目管理:
 
@@ -146,8 +149,3 @@ Books for coders.
 
 - [祈念守护人-东野圭吾.pdf](./09-鸡汤/祈念守护人-东野圭吾.pdf)
 - [精益创业.pdf](./09-鸡汤/精益创业.pdf)
-
-# Doc
-
-- [周爱民：告前端同学书](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514258&idx=1&sn=15da5081f310fbb1302e098ea68c0706&chksm=eb0780ebdc7009fd458befdd75280dfd3560aa4d6f8c382b45d2429c3ff7cfab944d3240e8b8#rd)
-- [周爱民 书集](https://weread.qq.com/web/search/books?author=%E5%91%A8%E7%88%B1%E6%B0%91)
