@@ -2,6 +2,10 @@
 
 Books for coders.
 
+# 2023/10/23 - 2023/10/29
+
+- [免费在线课程及认证](https://github.com/cloudcommunity/Free-Certifications)
+
 # Star
 
 - [重构: 改善既有代码设计 - 第二版](https://book-refactoring2.ifmicro.com/docs/)
