@@ -6,6 +6,7 @@ Books for coders.
 
 - [免费在线课程及认证](https://github.com/cloudcommunity/Free-Certifications)
 - [图解系统设计](https://github.com/ByteByteGoHq/system-design-101#rest-api-vs-graphql)
+- [CSS Animation](https://h-wakanda.github.io/css-animation-101-cn/)
 
 # Star
 
