@@ -68,6 +68,7 @@ Books for coders.
 - [algoxy-zh-cn.pdf](./05-算法/algoxy-zh-cn.pdf)
 - [算法导论第三版.pdf](./05-算法/算法导论第三版.pdf)
 - [设计模式 pdf.pdf](./05-算法/设计模式pdf.pdf)
+- [JavaScript 函数式编程.pdf](./05-重构/JavaScript函数式编程.pdf)
 
 05-重构:
 
